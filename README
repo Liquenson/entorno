@@ -1,0 +1,1 @@
+Este script automatiza la creación, configuración y eliminación de una red Docker personalizada y un conjunto de contenedores. Su propósito principal es eliminar cualquier configuración anterior, crear una nueva red de Docker llamada ansible con una subred específica, y ejecutar múltiples contenedores configurados con IPs fijas.
